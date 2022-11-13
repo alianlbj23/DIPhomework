@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\opencv\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2\core.hpp(1746,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  ConsoleApplication1.vcxproj -> C:\Users\User\OneDrive\桌面\講義-20211214T125055Z-001\講義\影像辨識\develop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
